@@ -1,0 +1,5 @@
+DigiKeyScraper
+
+This is a very simple digikey scraper designed to pull pricing data from the site DigiKey.com and calculate pricing for quantity purchases. Use it for in-house inventory systems in electronics parts operations. Enjoy!
+
+Requires the HTMLAgilityPack
